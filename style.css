@@ -6,5 +6,10 @@ header a{
   background-color:white;
   border-radius:10px;
   padding:5px;
-  text-decoration:none;
+  text-decoration:none; 
+  margin-left:10px;
+  margin-right:10px;
+}
+hader{
+  padding:5px;
 }
