@@ -2,8 +2,8 @@ h2{
   color: blue;
   font-size:20px; 
  }   
-header p{
+header a{
   background-color:white;
-  border-radius:15px;
+  border-radius:10px;
   padding:5px;
 }
