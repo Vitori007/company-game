@@ -15,4 +15,7 @@ header{
 }
 .dev{
    font-size:15px;
- } 
+}
+tr{
+  border:1px solid blue;
+}
