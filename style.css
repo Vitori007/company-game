@@ -16,6 +16,7 @@ header{
 .dev{
    font-size:15px;
 }
-tr{
-  border:1px solid blue;
+body{
+  background-image:https://i.pinimg.com/originals/6e/0f/d6/6e0fd69a36ee8bbf9504f3132c79faff.jpg;
+  background-repeat: no-repeat;  
 }
