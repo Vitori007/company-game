@@ -16,7 +16,7 @@ header{
 .dev{
    font-size:15px;
 }
-body, main{
+main{
   background-image:url('https://i.pinimg.com/originals/6e/0f/d6/6e0fd69a36ee8bbf9504f3132c79faff.jpg');
 }
 header, footer{
@@ -24,10 +24,14 @@ header, footer{
 }
 p{
   color:#4dffdb;
-  font-size:35px;
+  font-size:34px;
 }
 h1{
   color:#00ffcc;
   font-size:41px
 }
+h2{
+  color:#00ffcc;
+  font-size:37 px;
+ }
 
