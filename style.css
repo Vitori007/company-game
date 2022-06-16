@@ -34,4 +34,11 @@ h2{
   color:#00ffcc;
   font-size:35px;
  }
+td{
+  color:#4dffdb;
+  font-size:20px;
+}
+table {
+  border:solid #00ffcc 3px;
+ }
 
