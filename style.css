@@ -16,6 +16,14 @@ header{
 .dev{
    font-size:15px;
 }
-body{
+body, main{
   background-image:url('https://i.pinimg.com/originals/6e/0f/d6/6e0fd69a36ee8bbf9504f3132c79faff.jpg');
 }
+header, footer{
+  background-image:url('https://i.pinimg.com/736x/40/11/20/4011200620a6a72b2ae7f465ce233bfe.jpg');
+}
+p{
+  color:white;
+  font-size:40px;
+}
+
