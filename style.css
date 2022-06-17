@@ -23,7 +23,7 @@ body{
 header, footer{
   background-image:url('https://i.pinimg.com/736x/40/11/20/4011200620a6a72b2ae7f465ce233bfe.jpg');
 }
-p{
+p, dev{
   color:#4dffdb;
   font-size:30px;
 }
