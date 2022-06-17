@@ -41,5 +41,10 @@ td{
 }
 table {
   border:solid #00ffcc 3px;
- }
+}
+main img {
+  border-radius:20px;
+  border:white solid 3px;
+  margin-right:15px;
+}
 
