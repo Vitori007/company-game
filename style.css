@@ -8,6 +8,9 @@ header a, footer a{
   text-decoration:none; 
   font-size:25px;
 }
+header a{
+  margin-bottom:10px;
+  }
 header{
   padding:10px;
 }
