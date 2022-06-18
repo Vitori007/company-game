@@ -1,22 +1,12 @@
-h2{
-  color: blue;
-  font-size:20px; 
- }   
+
 header a, footer a{
   color:white;
   padding:20px;
   text-decoration:none; 
   font-size:25px;
 }
-header a, {
-  margin-bottom:10px;
-  }
-header{
-  padding:10px;
-}
 .dev{
    font-size:20px;
-   margin-bottom:10px;
 }
 body{
   background-image:url('https://i.pinimg.com/originals/6e/0f/d6/6e0fd69a36ee8bbf9504f3132c79faff.jpg'); 
@@ -24,6 +14,7 @@ body{
 }
 header, footer{
   background-image:url('https://i.pinimg.com/736x/40/11/20/4011200620a6a72b2ae7f465ce233bfe.jpg');
+  padding:10px;
 }
 p, dev{
   color:#4dffdb;
